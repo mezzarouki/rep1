@@ -2,3 +2,7 @@ h1{
     font-size: medium;
     color: crimson;
 }
+
+div{
+    border: 1px solid black;
+}
